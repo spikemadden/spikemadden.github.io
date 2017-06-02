@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "Spike Madden",
+    "label": "",
+    "picture": "",
+    "email": "madden.spike@gmail.com",
+    "phone": "(503)-737-4527",
+    "website": "https://spikemadden.gihub.io",
+    "summary": "I recently graduated cum laude from Oregon State University with a BS in Computer Science. I'm interested in web development, machine learning and ai.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Portland",
+      "countryCode": "",
+      "region": "Oregon"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "spikemadden",
+        "url": "https://github.com/spikemadden"
+      },
+      {
+        "network": "linkedin",
+        "username": "spike-madden",
+        "url": "https://linkedin.com/in/spike-madden"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Lytics",
+      "position": "Data Science Intern",
+      "website": "https://getlytics.com/",
+      "startDate": "2016-06-15",
+      "endDate": "2016-09-15",
+      "summary": "Lytics helps enterprises automate personalized marketing experiences through the industry's most advanced Customer Data Platform.",
+      "highlights": [
+        "Developed a backend web service for Lytics’ Customer Data Platform - specifically, within the Content Enrichment workflow.",
+        "The application was created using Node.js and the accompanying client side code was written in Go."
+      ]
+    },
+    {
+      "company": "Oregon State University",
+      "position": "Teacher's Assistant",
+      "website": "https://www.oregonstate.edu/",
+      "startDate": "2014-01-01",
+      "endDate": "2016-04-15",
+      "summary": "TA for Oregon State University's CS 162 course - Intro to Programming II.",
+      "highlights": [
+        "Helped design the curriculum for the course over consecutive terms.",
+        "Responsible for grading assignments and labs, and providing help through email and office hours."
+      ]
+    }
+  ],
+  "volunteer": [
+  ],
+  "education": [
+    {
+      "institution": "Oregon State University",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2013-09-01",
+      "endDate": "2017-06-17",
+      "gpa": "3.61",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dean's List",
+      "date": "2013-12-14",
+      "awarder": "Oregon State University",
+      "summary": "Students that completed at least 12 graded credit hours with a 3.5 or higher GPA."
+    },
+    {
+      "title": "Engineering Expo Award Winner",
+      "date": "2017-05-19",
+      "awarder": "Oregon State University - EECS",
+      "summary": "Our group's interactive VR fishing experience for Columbia and Intel was voted as a top three project by Electrical Engineering and Compuer Science Industry represenatives based on technical merit and presentation."
+
+    }
+  ],
+  "skills": [
+    {
+      "name": "Proficient",
+      "level": "Proficient",
+      "keywords": [
+        "bash",
+        "c",
+        "c++",
+        "git",
+        "go",
+        "javascript",
+        "python"
+      ]
+    },
+    {
+      "name": "Familiar",
+      "level": "Familiar",
+      "keywords": [
+        "html",
+        "java",
+        "mysql",
+        "php"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Native speaker"
+    }
+  ]
+}

@@ -6,7 +6,7 @@
     "email": "madden.spike@gmail.com",
     "phone": "(503)-737-4527",
     "website": "https://spikemadden.gihub.io",
-    "summary": "I recently graduated cum laude from Oregon State University with a BS in Computer Science. I'm interested in web development, machine learning and ai.",
+    "summary": "Recently graduated from Oregon State University with a Bachelor of Science in Computer Science. I'm interested in web development, machine learning and ai.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -46,11 +46,33 @@
       "website": "https://www.oregonstate.edu/",
       "startDate": "2014-01-01",
       "endDate": "2016-04-15",
-      "summary": "TA for Oregon State University's CS 162 course - Intro to Programming II.",
+      "summary": "TA for Oregon State University's CS 162 course - Introduction to Programming II.",
       "highlights": [
         "Helped design the curriculum for the course over consecutive terms.",
         "Responsible for grading assignments and labs, and providing help through email and office hours."
       ]
+    }
+  ],
+  "projects": [
+    {
+      "name":"Interactive VR Fishing Experience",
+      "website": "https://www.youtube.com/watch?v=TfN9KNR9A9w",
+      "summary": "We were given to opportunity to work on this virtual reality project for Columbia and Intel during our Senior Capstone course. We were tasked with creating an immersive and interactive fishing experience. We used an HTC Vive and the Unity Game Engine to create our project."
+    },
+    {
+      "name": "Website",
+      "website": "https://github.com/spikemadden/spikemadden.github.io",
+      "summary": "Personal static website created using Jekyll and hosted on GitHub pages. Resume created using JSON Resume and making changes to jsonresume-theme-elegant."
+    },
+    {
+      "name": "Music Habits Android Application",
+      "website": "https://github.com/mckennajones/MusicDiscovery",
+      "summary": "An Android application that informs users on their music listening habits. The application provides a clean, Google Cards like interface to display information such as most played artist, album and song. The application was written in Java using Android Studio."
+    },
+    {
+      "name": "Unbeatable Tic Tac Toe AI",
+      "website": "https://github.com/spikemadden/tic-tac-toe",
+      "summary": "Adapted a program that originally had a naive ai that would place moves randomly to become unbeatable. The ai exhaustively plays every possible series of moves given the current board. The code is written in c++ and is based on the minimax algorithm."
     }
   ],
   "volunteer": [
@@ -72,7 +94,7 @@
       "title": "Dean's List",
       "date": "2013-12-14",
       "awarder": "Oregon State University",
-      "summary": "Students that completed at least 12 graded credit hours with a 3.5 or higher GPA."
+      "summary": "Students who completed at least 12 graded credit hours with a 3.5 or higher GPA."
     },
     {
       "title": "Engineering Expo Award Winner",

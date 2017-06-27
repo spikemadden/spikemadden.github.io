@@ -1,5 +1,5 @@
 body {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Nunito', serif;
     background-color: rgba(0, 0, 0, 0.9);
     position: absolute;
     top: 0;
@@ -39,7 +39,7 @@ h3 {
 .content {
     padding-top: 100px;
     padding-bottom: 40px;
-    background-color: rgba(51, 51, 51, 0.2);
+    background-color: rgba(51, 51, 51, 0.075);
     text-align: center;
 }
 ul {
@@ -72,7 +72,7 @@ a {
 }
 
 a.resume {
-  color: #333;
+  color: #ffd1e8;
   padding: 0px;
   text-decoration: none;
 }

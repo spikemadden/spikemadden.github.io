@@ -6,7 +6,7 @@
     "email": "madden.spike@gmail.com",
     "phone": "(503) 737-4527",
     "website": "https://spikemadden.github.io",
-    "summary": "Recently graduated from Oregon State University with a Bachelor of Science in Computer Science. I'm interested in web development, machine learning and ai.",
+    "summary": "Recently graduated from Oregon State University with a B.S. in Computer Science. I'm interested in fullstack development, machine learning and ai.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -36,8 +36,7 @@
       "endDate": "2016-09-15",
       "summary": "Lytics helps enterprises automate personalized marketing experiences through the industry's most advanced Customer Data Platform.",
       "highlights": [
-        "Developed a backend web service for Lytics’ Customer Data Platform - specifically, within the Content Enrichment workflow.",
-        "The application was created using Node.js and the accompanying client side code was written in Go."
+        "Developed a backend web data extraction service using Node.js and Nightmare.js, a high level automation library running on Electron."
       ]
     },
     {
@@ -48,8 +47,7 @@
       "endDate": "2016-04-15",
       "summary": "TA for Oregon State University's CS 162 course - Introduction to Programming II.",
       "highlights": [
-        "Helped design the curriculum for the course over consecutive terms.",
-        "Responsible for grading assignments and labs, and providing help through email and office hours."
+        "Responsible for grading assignments and providing help through office hours. Helped design the curriculum over the consecutive terms."
       ]
     }
   ],
@@ -60,7 +58,12 @@
       "summary": "We were given to opportunity to work on this virtual reality project for Columbia and Intel during our Senior Capstone course. We were tasked with creating an immersive and interactive fishing experience. We used an HTC Vive and the Unity Game Engine to create our project."
     },
     {
-      "name": "Website",
+      "name": "Portland Food Carts Web Application",
+      "website": "https://github.com/spikemadden/food-carts",
+      "summary": "Personal project that displays information on Portland Food Carts. The app is built with Flask on the backend with Elasticsearch for search and Mapbox with React on the frontend."
+    },
+    {
+      "name": "Personal Website",
       "website": "https://github.com/spikemadden/spikemadden.github.io",
       "summary": "Personal static website created using Jekyll and hosted on GitHub pages. Resume created using JSON Resume and making changes to jsonresume-theme-elegant."
     },
@@ -84,7 +87,7 @@
       "studyType": "Bachelor of Science",
       "startDate": "2013-09-01",
       "endDate": "2017-06-17",
-      "gpa": "3.61",
+      "gpa": "3.6",
       "courses": [
       ]
     }
@@ -114,7 +117,10 @@
         "c++",
         "git",
         "go",
+        "html",
         "javascript",
+        "mysql",
+        "node",
         "python"
       ]
     },
@@ -122,9 +128,8 @@
       "name": "Familiar",
       "level": "Familiar",
       "keywords": [
-        "html",
+        "docker",
         "java",
-        "mysql",
         "php"
       ]
     }

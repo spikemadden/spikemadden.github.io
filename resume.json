@@ -2,17 +2,17 @@
   "basics": {
     "name": "Spike Madden",
     "label": "",
-    "picture": "",
+    "picture": "https://avatars0.githubusercontent.com/u/9127869?s=400&v=4",
     "email": "madden.spike@gmail.com",
     "phone": "(503) 737-4527",
     "website": "https://spikemadden.github.io",
-    "summary": "Recently graduated from Oregon State University with a B.S. in Computer Science. I'm interested in fullstack development, machine learning and ai.",
+    "summary": "Recently graduated from Oregon State University with a B.S. in Computer Science. I'm interested in software engineering and fullstack development",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Portland",
+      "city": "Seattle",
       "countryCode": "",
-      "region": "Oregon"
+      "region": "Washington"
     },
     "profiles": [
       {
@@ -29,6 +29,19 @@
   },
   "work": [
     {
+      "company": "Time Inc.",
+      "position": "Software Development Engineer I",
+      "website": "https://thefoundry.nyc/",
+      "startDate": "2018-02-12",
+      "endDate": "2018-03-21",
+      "summary": "Backend developer on the Foundry Content Ads Platform team.",
+      "highlights": [
+        "Contributed to the system responsible for collecting and calculating metrics for ad campaigns across hundreds of brands and all third-party ad platforms on Time Inc. sites.",
+        "Stack: AWS(lambda, kinesis, S3), Node.js for the backend and Mode/SQL for custom reports.",
+        "Company wide layoffs after Meredith's acquisition of Time Inc."
+      ]
+    },
+    {
       "company": "Lytics",
       "position": "Data Science Intern",
       "website": "https://getlytics.com/",
@@ -36,7 +49,7 @@
       "endDate": "2016-09-15",
       "summary": "Lytics helps enterprises automate personalized marketing experiences through the industry's most advanced Customer Data Platform.",
       "highlights": [
-        "Developed a backend web data extraction service using Node.js and Nightmare.js, a high level automation library running on Electron."
+        "Developed a backend web crawler and data extraction service using Node.js and Nightmare.js, a high level automation library running on Electron."
       ]
     },
     {
@@ -109,28 +122,30 @@
   ],
   "skills": [
     {
-      "name": "Proficient",
+      "name": "Languages",
       "level": "Proficient",
       "keywords": [
-        "bash",
         "c",
         "c++",
-        "git",
         "go",
-        "html",
         "javascript",
         "mysql",
         "node",
+        "php",
         "python"
       ]
     },
     {
-      "name": "Familiar",
+      "name": "Tools",
       "level": "Familiar",
       "keywords": [
+        "aws",
         "docker",
-        "java",
-        "php"
+        "git",
+        "kinesis",
+        "lambda",
+        "mode",
+        "S3"
       ]
     }
   ],
